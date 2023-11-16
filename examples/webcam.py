@@ -10,7 +10,7 @@ import webcamgpt
 MARKDOWN = """
 # webcamGPT 💬 + 📸
 
-This is a demo of webcamGPT, a tool that allows you to chat with video using GPT-4. 
+This is a demo of webcamGPT, a tool that allows you to chat with video using GPT-4.
 """
 
 connector = webcamgpt.OpanAIConnector()
